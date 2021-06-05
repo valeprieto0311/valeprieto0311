@@ -17,4 +17,6 @@
 
 :zap: Potterhead
 
-:ocean: En mis tiempos libres me gusta ver series 
+:ocean: En mis tiempos libres me gusta ver series
+
+:scorpius: Escorpio
